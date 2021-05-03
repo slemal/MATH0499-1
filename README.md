@@ -1,7 +1,7 @@
 # Algorithmes de Kruskal et de Borůvka
 
 ## Code source
-Le code source est disponible dans le répertoire `source_code`.
+Le code source est disponible dans le répertoire `source`.
 Le fichier `UnionFind.py` implémente une structure de donnée utilisée pour les algorithmes.
 Le fichier `MST.py` contient le code des algorithmes de Kruskal et de Borůvka.
 
